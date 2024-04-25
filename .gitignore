@@ -162,4 +162,5 @@ cython_debug/
 
 #PDF
 Biology2e.pdf
-pdf_chunks/*
+pdf_chunks/
+unit1/
