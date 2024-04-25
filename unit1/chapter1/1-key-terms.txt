@@ -1,0 +1,104 @@
+abstract
+opening section of a scientific paper that summarizes the research and conclusions
+applied science
+form of science that aims to solve real-world problems
+atom
+smallest and most fundamental unit of matter that retains the properties of an element
+basic science
+science that seeks to expand knowledge and understanding regardless of the short-term application of that knowledge
+biochemistry
+study of the chemistry of biological organisms
+biology
+the study of life
+biosphere
+collection of all the ecosystems on Earth
+botany
+study of plants
+cell
+smallest fundamental unit of structure and function in living things
+community
+set of populations inhabiting a particular area
+conclusion
+section of a scientific paper that summarizes the importance of the experimental findings
+control
+part of an experiment that does not change during the experiment
+deductive reasoning
+form of logical thinking that uses a general inclusive statement to predict specific results
+descriptive science
+(also, discovery science) form of science that aims to observe, explore, and investigate
+discussion
+section of a scientific paper in which the author interprets experimental results, describes how variables may be related, and attempts to explain the phenomenon in question
+ecosystem
+all the living things in a particular area together with the abiotic, nonliving parts of that environment
+eukaryote
+organism with cells that have nuclei and membrane-bound organelles
+evolution
+the process of gradual change in a population or species over time
+falsifiable
+able to be disproven by experimental results
+homeostasis
+ability of an organism to maintain constant internal conditions
+hypothesis
+suggested explanation for an observation, which one can test
+hypothesis-based science
+form of science that begins with a specific question and potential testable answers
+inductive reasoning
+form of logical thinking that uses related observations to arrive at a general conclusion
+introduction
+opening section of a scientific paper, which provides background information about what was known in the field prior to the research reported in the paper
+life science
+field of science, such as biology, that studies living things
+macromolecule
+large molecule, typically formed by the joining of smaller molecules
+materials and methods
+section of a scientific paper that includes a complete description of the substances, methods, and techniques that the researchers used to gather data
+microbiology
+study of the structure and function of microorganisms
+molecular biology
+study of biological processes and their regulation at the molecular level, including interactions among molecules such as DNA, RNA, and proteins
+molecule
+chemical structure consisting of at least two atoms held together by one or more chemical bonds
+natural science
+field of science that is related to the physical world and its phenomena and processes
+neurobiology
+study of the biology of the nervous system
+organ
+collection of related tissues grouped together performing a common function
+organ system
+level of organization that consists of functionally related interacting organs
+organelle
+small structures that exist within cells and carry out cellular functions
+organism
+individual living entity
+paleontology
+study of life’s history by means of fossils
+peer-reviewed manuscript
+scientific paper that a scientist’s colleagues review who are experts in the field of study
+phylogenetic tree
+diagram showing the evolutionary relationships among various biological species based on similarities and differences in genetic or physical traits or both; in essence, a hypothesis concerning evolutionary connections
+physical science
+field of science, such as geology, astronomy, physics, and chemistry, that studies nonliving matter
+plagiarism
+using other people’s work or ideas without proper citation, creating the false impression that those are the author’s original ideas
+population
+all of the individuals of a species living within a specific area
+prokaryote
+single-celled organism that lacks organelles and does not have nuclei surrounded by a nuclear membrane
+results
+section of a scientific paper in which the author narrates the experimental findings and presents relevant figures, pictures, diagrams, graphs, and tables, without any further interpretation
+review article
+paper that summarizes and comments on findings that were published as primary literature
+science
+knowledge that covers general truths or the operation of general laws, especially when acquired and tested by the scientific method
+scientific method
+method of research with defined steps that include observation, formulation of a hypothesis, testing, and confirming or falsifying the hypothesis
+serendipity
+fortunate accident or a lucky surprise
+theory
+tested and confirmed explanation for observations or phenomena
+tissue
+group of similar cells carrying out related functions
+variable
+part of an experiment that the experimenter can vary or change
+zoology
+study of animals

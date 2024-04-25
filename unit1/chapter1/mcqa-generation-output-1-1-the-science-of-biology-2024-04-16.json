@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is a primary goal of the scientific method?",
+            "options": [
+                "To prove hypotheses beyond doubt",
+                "To generate repeatable experiments to test hypotheses",
+                "To define what science is and is not",
+                "To apply scientific knowledge only to physical sciences"
+            ],
+            "answer": "To generate repeatable experiments to test hypotheses"
+        },
+        {
+            "question": "What distinguishes basic science from applied science?",
+            "options": [
+                "Basic science seeks to apply scientific knowledge to solve problems",
+                "Applied science is not concerned with expanding knowledge for its own sake",
+                "Basic science is not focused on developing a product or a service of immediate public or commercial value",
+                "Applied science does not contribute to the body of scientific knowledge"
+            ],
+            "answer": "Basic science is not focused on developing a product or a service of immediate public or commercial value"
+        },
+        {
+            "question": "What is bioethics concerned with?",
+            "options": [
+                "The physical processes of life forms",
+                "The ethical implications of biological research and applications",
+                "The quantitative data analysis in natural sciences",
+                "The study of nonliving matter and its phenomena"
+            ],
+            "answer": "The ethical implications of biological research and applications"
+        },
+        {
+            "question": "According to the text, what represents an example of applied science?",
+            "options": [
+                "Studying DNA replication mechanisms",
+                "The discovery of the antibiotic penicillin",
+                "Finding a cure for a particular disease",
+                "Expanding knowledge on the structure of DNA"
+            ],
+            "answer": "Finding a cure for a particular disease"
+        },
+        {
+            "question": "Which type of reasoning is used to derive a general conclusion from a number of specific observations?",
+            "options": [
+                "Deductive reasoning",
+                "Inductive reasoning",
+                "Hypothesizing",
+                "Experimentation"
+            ],
+            "answer": "Inductive reasoning"
+        },
+        {
+            "question": "What is the role of peer review in scientific publishing?",
+            "options": [
+                "To ensure that the research is original, significant, logical, and thorough",
+                "To confirm the hypothesis of the scientific paper",
+                "To provide financial support for further research",
+                "To publicize the research to a wider audience"
+            ],
+            "answer": "To ensure that the research is original, significant, logical, and thorough"
+        },
+        {
+            "question": "Which of the following fields of study is not considered a natural science?",
+            "options": [
+                "Psychology",
+                "Biology",
+                "Physics",
+                "Chemistry"
+            ],
+            "answer": "Psychology"
+        },
+        {
+            "question": "What does a hypothesis require to be considered valid for scientific investigations?",
+            "options": [
+                "It must be based on scientific law.",
+                "It must be testable and falsifiable.",
+                "It must be proven true by quantitative data.",
+                "It must address non-scientific explanations."
+            ],
+            "answer": "It must be testable and falsifiable."
+        },
+        {
+            "question": "Which example best illustrates the concept of serendipity in scientific discoveries?",
+            "options": [
+                "The use of a controlled laboratory setting to test a hypothesis",
+                "The planned selection of research topics based on current scientific trends",
+                "Alexander Fleming discovering penicillin by accident",
+                "Using computer algorithms to predict experimental outcomes"
+            ],
+            "answer": "Alexander Fleming discovering penicillin by accident"
+        },
+        {
+            "question": "What is the primary difference between descriptive science and hypothesis-based science?",
+            "options": [
+                "Descriptive science is only used in physical sciences.",
+                "Hypothesis-based science does not involve experiments.",
+                "Descriptive science aims to observe and discover, while hypothesis-based science begins with a specific question or problem.",
+                "Hypothesis-based science relies solely on inductive reasoning."
+            ],
+            "answer": "Descriptive science aims to observe and discover, while hypothesis-based science begins with a specific question or problem."
+        }
+    ]
+}

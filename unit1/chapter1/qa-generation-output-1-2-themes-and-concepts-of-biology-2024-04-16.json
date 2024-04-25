@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary focus of biology?",
+            "answer": "Biology is the science that studies life."
+        },
+        {
+            "question": "Why might virologists not be considered biologists in a strict sense?",
+            "answer": "Virologists study viruses, which do not meet all the criteria used by biologists to define life."
+        },
+        {
+            "question": "What are the three fundamental questions that biology has wrestled with since its inception?",
+            "answer": "The three questions are: What makes something 'alive'? How do we find meaningful levels of organization in its structure? How do we organize different kinds of organisms to better understand them?"
+        },
+        {
+            "question": "What are the eight key characteristics or functions that define life?",
+            "answer": "The eight characteristics are: order, sensitivity or response to stimuli, reproduction, adaptation, growth and development, regulation/homeostasis, energy processing, and evolution."
+        },
+        {
+            "question": "What is the role of DNA in reproduction?",
+            "answer": "DNA contains genes that are passed along to an organism's offspring, ensuring that the offspring will belong to the same species and have similar characteristics."
+        },
+        {
+            "question": "How does adaptation benefit living organisms?",
+            "answer": "Adaptations enhance the reproductive potential of individuals, including their ability to survive and reproduce, and are a consequence of evolution by natural selection."
+        },
+        {
+            "question": "What is homeostasis and how do organisms maintain it?",
+            "answer": "Homeostasis refers to the stable internal environment required to maintain life. Organisms maintain homeostasis through regulatory mechanisms despite environmental changes."
+        },
+        {
+            "question": "What distinguishes prokaryotic cells from eukaryotic cells?",
+            "answer": "Prokaryotes are single-celled or colonial organisms without membrane-bound nuclei, whereas eukaryotic cells have membrane-bound organelles and a membrane-bound nucleus."
+        },
+        {
+            "question": "What is the hierarchical organization of life from smallest to largest?",
+            "answer": "The hierarchy is organelles, cells, tissues, organs, organ systems, organisms, populations, communities, ecosystems, and the biosphere."
+        },
+        {
+            "question": "How does the phylogenetic tree summarize the evolution of life forms?",
+            "answer": "It is a diagram showing evolutionary relationships among biological species based on similarities and differences in genetic or physical traits, with nodes representing ancestors and branch lengths indicating time elapsed since divergence."
+        },
+        {
+            "question": "Who is Carl Woese and what is his contribution to biology?",
+            "answer": "Carl Woese is an American microbiologist who defined Archaea as a new domain of life, showing that life on Earth has evolved along three lineages, now known as domains\u2014Bacteria, Archaea, and Eukarya."
+        },
+        {
+            "question": "What is forensic science and what role do biologists play in it?",
+            "answer": "Forensic science applies science to answer questions related to the law, and biologists can provide scientific evidence in court through analysis of DNA and other biological materials."
+        }
+    ]
+}

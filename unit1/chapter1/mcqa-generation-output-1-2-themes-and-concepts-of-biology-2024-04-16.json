@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is NOT a characteristic of all living organisms?",
+            "options": [
+                "Order",
+                "Ability to move at will",
+                "Regulation/Homeostasis",
+                "Energy Processing"
+            ],
+            "answer": "Ability to move at will"
+        },
+        {
+            "question": "What do virologists study?",
+            "options": [
+                "Bacteria",
+                "Fungi",
+                "Viruses",
+                "Plants"
+            ],
+            "answer": "Viruses"
+        },
+        {
+            "question": "Which of the following levels of organization is the smallest and most fundamental unit of matter?",
+            "options": [
+                "Cells",
+                "Molecules",
+                "Atoms",
+                "Organelles"
+            ],
+            "answer": "Atoms"
+        },
+        {
+            "question": "What does a phylogenetic tree represent?",
+            "options": [
+                "The cell structure of organisms",
+                "The ecosystem of a geographical area",
+                "The evolutionary relationships among species",
+                "The metabolic pathways in living organisms"
+            ],
+            "answer": "The evolutionary relationships among species"
+        },
+        {
+            "question": "Which domain of life includes unicellular microorganisms that lack membrane-enclosed nuclei and organelles?",
+            "options": [
+                "Bacteria",
+                "Eukarya",
+                "Archaea",
+                "Prokarya"
+            ],
+            "answer": "Archaea"
+        },
+        {
+            "question": "In which field is a forensic scientist primarily involved?",
+            "options": [
+                "Cloning",
+                "Crime scene investigation",
+                "Genetic engineering",
+                "Drug development"
+            ],
+            "answer": "Crime scene investigation"
+        },
+        {
+            "question": "What does the biosphere include?",
+            "options": [
+                "All living cells",
+                "All ecosystems on Earth",
+                "All prokaryotic organisms",
+                "All aquatic life forms"
+            ],
+            "answer": "All ecosystems on Earth"
+        },
+        {
+            "question": "Which of the following is NOT true about adaptations?",
+            "options": [
+                "They are a result of evolution.",
+                "They decrease an organism's reproductive success.",
+                "They can change as an environment changes.",
+                "They enhance survival and reproduction."
+            ],
+            "answer": "They decrease an organism's reproductive success."
+        },
+        {
+            "question": "What is the primary role of DNA in organisms?",
+            "options": [
+                "Providing energy",
+                "Containing instructions for growth and development",
+                "Acting as a primary structure in cell membranes",
+                "Serving as a primary source of nutrition"
+            ],
+            "answer": "Containing instructions for growth and development"
+        },
+        {
+            "question": "What mechanism do organisms use to maintain homeostasis?",
+            "options": [
+                "Adaptation",
+                "Regulatory mechanisms",
+                "Evolution",
+                "Energy processing"
+            ],
+            "answer": "Regulatory mechanisms"
+        }
+    ]
+}

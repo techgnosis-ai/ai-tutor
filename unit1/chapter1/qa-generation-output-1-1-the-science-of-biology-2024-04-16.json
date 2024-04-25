@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "question": "What is the definition of biology?",
+            "answer": "Biology is the study of life."
+        },
+        {
+            "question": "What are some examples of how biology is discussed in daily news?",
+            "answer": "Examples include outbreaks of Escherichia coli and Salmonella contamination, efforts toward finding a cure for AIDS, Alzheimer\u2019s disease, and cancer, as well as finding ways to protect the planet and solve environmental issues."
+        },
+        {
+            "question": "What is the scientific method?",
+            "answer": "The scientific method is a method of research with defined steps that include experiments and careful observation."
+        },
+        {
+            "question": "How does inductive reasoning differ from deductive reasoning?",
+            "answer": "Inductive reasoning uses related observations to arrive at a general conclusion, while deductive reasoning uses a general principle or law to predict specific results."
+        },
+        {
+            "question": "What is the goal of basic science?",
+            "answer": "The goal of basic science is to expand knowledge regardless of the short-term application of that knowledge."
+        },
+        {
+            "question": "What is applied science aimed at?",
+            "answer": "Applied science aims to use science to solve real-world problems."
+        },
+        {
+            "question": "What are examples of natural sciences?",
+            "answer": "Examples of natural sciences include astronomy, biology, chemistry, earth science, and physics."
+        },
+        {
+            "question": "How do scientists share their research findings?",
+            "answer": "Scientists share their findings through peer-reviewed manuscripts published in scientific journals, presenting at scientific meetings or conferences, and collaborating with other researchers."
+        },
+        {
+            "question": "What ethical considerations must scientists keep in mind while conducting research?",
+            "answer": "Scientists must ensure that their research does not cause undue damage to humans, animals, or the environment, and that their work is free of bias. They also need to consider financial, legal, safety, replicability, and other considerations."
+        },
+        {
+            "question": "What was the significance of the Human Genome Project?",
+            "answer": "The Human Genome Project was a collaborative effort to analyze and map each human chromosome, determining the precise sequence of DNA subunits and each gene's exact location, which has applications in diagnosing and finding cures for genetically related diseases."
+        },
+        {
+            "question": "How did Henrietta Lacks contribute to medical research?",
+            "answer": "Cells taken from Henrietta Lacks without her knowledge or consent became the immortal HeLa cell line, which has contributed to major medical discoveries, including the polio vaccine and research related to cancer, AIDS, cell aging, and COVID-19."
+        },
+        {
+            "question": "What is an example of a discovery made by serendipity?",
+            "answer": "An example is the discovery of penicillin by Alexander Fleming, who observed that an unwanted mold growing on a petri dish killed Staphylococcus bacteria, leading to the discovery of the antibiotic."
+        }
+    ]
+}
